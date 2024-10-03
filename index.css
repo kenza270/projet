@@ -1,0 +1,55 @@
+header img{
+    width: 100px;
+;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:
+    #8d6e63 ;
+    height: 130px;
+}
+.titre{
+    background-image: url(background-office-bg-changed\ -\ Copie.jpg);
+    height: 150px;
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
+.style img{
+    width: 300px;
+}
+#photos{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+}
+div img{
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+.style{
+    background-color: #d7ccc8;
+    width: 27%;
+    padding: 20px;
+    border-radius: 15px;#
+    height: 30rem;
+    text-align: center;
+}
+#fin h1{
+     text-align: center;
+}
+#fin{
+    background-color:#efebe9 ;
+}
+footer{
+    text-align: center;
+    background-color: #8d6e63;
+}
+
+
+
+
